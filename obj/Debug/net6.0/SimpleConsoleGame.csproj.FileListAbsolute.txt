@@ -1,0 +1,30 @@
+C:\Git\MyFirstConsoleGame\SimpleConsoleGame\bin\Debug\net6.0\SimpleConsoleGame.exe
+C:\Git\MyFirstConsoleGame\SimpleConsoleGame\bin\Debug\net6.0\SimpleConsoleGame.deps.json
+C:\Git\MyFirstConsoleGame\SimpleConsoleGame\bin\Debug\net6.0\SimpleConsoleGame.runtimeconfig.json
+C:\Git\MyFirstConsoleGame\SimpleConsoleGame\bin\Debug\net6.0\SimpleConsoleGame.dll
+C:\Git\MyFirstConsoleGame\SimpleConsoleGame\bin\Debug\net6.0\SimpleConsoleGame.pdb
+C:\Git\MyFirstConsoleGame\SimpleConsoleGame\obj\Debug\net6.0\SimpleConsoleGame.csproj.AssemblyReference.cache
+C:\Git\MyFirstConsoleGame\SimpleConsoleGame\obj\Debug\net6.0\SimpleConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Git\MyFirstConsoleGame\SimpleConsoleGame\obj\Debug\net6.0\SimpleConsoleGame.AssemblyInfoInputs.cache
+C:\Git\MyFirstConsoleGame\SimpleConsoleGame\obj\Debug\net6.0\SimpleConsoleGame.AssemblyInfo.cs
+C:\Git\MyFirstConsoleGame\SimpleConsoleGame\obj\Debug\net6.0\SimpleConsoleGame.csproj.CoreCompileInputs.cache
+C:\Git\MyFirstConsoleGame\SimpleConsoleGame\obj\Debug\net6.0\SimpleConsoleGame.dll
+C:\Git\MyFirstConsoleGame\SimpleConsoleGame\obj\Debug\net6.0\refint\SimpleConsoleGame.dll
+C:\Git\MyFirstConsoleGame\SimpleConsoleGame\obj\Debug\net6.0\SimpleConsoleGame.pdb
+C:\Git\MyFirstConsoleGame\SimpleConsoleGame\obj\Debug\net6.0\SimpleConsoleGame.genruntimeconfig.cache
+C:\Git\MyFirstConsoleGame\SimpleConsoleGame\obj\Debug\net6.0\ref\SimpleConsoleGame.dll
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\SimpleConsoleGame\bin\Debug\net6.0\SimpleConsoleGame.exe
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\SimpleConsoleGame\bin\Debug\net6.0\SimpleConsoleGame.deps.json
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\SimpleConsoleGame\bin\Debug\net6.0\SimpleConsoleGame.runtimeconfig.json
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\SimpleConsoleGame\bin\Debug\net6.0\SimpleConsoleGame.dll
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\SimpleConsoleGame\bin\Debug\net6.0\SimpleConsoleGame.pdb
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\SimpleConsoleGame\obj\Debug\net6.0\SimpleConsoleGame.csproj.AssemblyReference.cache
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\SimpleConsoleGame\obj\Debug\net6.0\SimpleConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\SimpleConsoleGame\obj\Debug\net6.0\SimpleConsoleGame.AssemblyInfoInputs.cache
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\SimpleConsoleGame\obj\Debug\net6.0\SimpleConsoleGame.AssemblyInfo.cs
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\SimpleConsoleGame\obj\Debug\net6.0\SimpleConsoleGame.csproj.CoreCompileInputs.cache
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\SimpleConsoleGame\obj\Debug\net6.0\SimpleConsoleGame.dll
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\SimpleConsoleGame\obj\Debug\net6.0\refint\SimpleConsoleGame.dll
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\SimpleConsoleGame\obj\Debug\net6.0\SimpleConsoleGame.pdb
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\SimpleConsoleGame\obj\Debug\net6.0\SimpleConsoleGame.genruntimeconfig.cache
+C:\Users\Karim Alkichouhi\Documents\School\Leerjaar 2\Blok_C\Native\SimpleConsoleGame\obj\Debug\net6.0\ref\SimpleConsoleGame.dll
